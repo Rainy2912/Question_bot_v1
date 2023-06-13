@@ -13,5 +13,5 @@ DIscord Question_bot_project  디스코드를 기반으로 제작되었으며 py
 봇을 생성 후 봇 토큰 확인 페이지 아래에 있는 PRESENCE INTENT, SERVER MEMBERS INTENT 이 2개를 꼭 켜주세요!
  
  
- #  STARTBOT  
+ #  Start Bot  
  위 사항들이 모두 완료되었다면 Start_bot.bat파일을 실행시켜주세요! 
